@@ -28,9 +28,9 @@
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Reactjs
-- react-hot-toast
-- react-icons
-- react-toastify
+- Node.js
+- Express.js
+- JSON Web Token(JWT)
 
 ## <a name="features">🔋 Features</a>
 
