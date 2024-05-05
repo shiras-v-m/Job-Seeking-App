@@ -29,7 +29,6 @@
 
 - Reactjs
 - react-hot-toast
-- Clerk
 - react-icons
 - react-toastify
 
